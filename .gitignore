@@ -1,0 +1,42 @@
+# Compiled C++ binaries and objects
+*.o
+*.so
+*.exe
+*.dll
+*.dylib
+
+# C++ Build directories
+build/
+Debug/
+Release/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environments
+venv/
+env/
+.virtualenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Log files
+*.log
+
+# Other files that should not be committed
+*.csv
+*.dat
+*.out
